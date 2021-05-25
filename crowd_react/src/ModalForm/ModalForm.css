@@ -1,0 +1,66 @@
+.title{
+    position: relative;
+    font-weight: 900;
+    font-style: normal;
+    top: 20px;
+    left: 10px;
+    font-family: 'Commissioner'
+}
+.pledge-text{
+    position: absolute;
+    font-weight: bold;
+    left: 260px;
+    top: 33px;
+    color: hsl(176, 50%, 47%);
+    font-family: 'Commissioner'
+}
+.modal-question{
+    position: relative;
+    font-weight: lighter;
+    font-size: medium;
+    color: grey;
+    font-family: 'Commissioner';
+    top: 0px;
+    left: 10px;
+}
+
+.title-class1{
+    position: absolute;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Commissioner';
+    top: 30px;
+    left: 60px;
+}
+
+.greyed-title-class1{
+    position: absolute;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Commissioner';
+    top: 30px;
+    left: 60px;
+    color: grey;
+}
+.title-class1:hover{
+    color: hsl(176, 50%, 47%);
+}
+
+.main-text{
+    color: grey;
+    position: relative;
+    top: 40px;
+    font-size: small;
+}
+
+
+.ant-radio-inner:after {
+    background: hsl(176, 50%, 47%) !important;
+  }
+
+  .ant-radio-checked .ant-radio-inner,
+.ant-radio:hover .ant-radio-inner,
+.ant-radio-wrapper:hover,
+.ant-radio-input:focus .ant-radio-inner {
+  border-color: hsl(176, 50%, 47%) !important;
+}

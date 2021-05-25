@@ -1,0 +1,38 @@
+.thank-you{
+    font-family: 'Commissioner';
+    text-align: center;
+    position: relative;
+    top: 60px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+
+.thankyou-text{
+    font-family: 'Commissioner';
+    font-size: medium;
+    position: relative;
+    text-align: center;
+    top: 80px;
+    color: grey;
+    font-weight: normal;
+}
+
+
+.button{
+    position: absolute;
+    top: 350px;
+    left: 225px;
+    background-color:  hsl(176, 50%, 47%);
+    color: white;
+    font-size: small;
+    font-weight: 800;
+    font-family: 'Commissioner';
+}
+
+.check-image{
+    position: relative;
+    top: 40px;
+    left: 260px;
+    height: 80px;
+}

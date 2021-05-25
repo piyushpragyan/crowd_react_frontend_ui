@@ -1,0 +1,122 @@
+.about{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    text-align: left;
+    font-family: 'Commissioner';
+    font-weight:bolder;
+    font-size: x-large;
+}
+
+.left-class{
+    position: relative;
+    font-size: small;
+    color: grey;
+    font-weight: bold;
+    left: 75px;
+    top: 15px;
+    
+}
+.p-class{
+    position: relative;
+    top: 75px;
+    left: 10px;
+    font-weight: bold;
+    color: rgb(163, 154, 154);
+    line-height: 32px;
+    text-align: left;
+    font-family: 'Commissioner';
+}
+
+.p1-class{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    font-weight: bold;
+    color: rgb(163, 154, 154);
+    text-align: left;
+    line-height: 32px;
+}
+
+.title-class{
+    position: absolute;
+    font-weight: bold;
+    font-size: large;
+    left: 10px;
+}
+
+
+.greyed-title-class{
+    position: absolute;
+    font-weight: bold;
+    font-size: large;
+    left: 10px;
+    color: grey;
+}
+
+
+
+.price-class{
+    position: absolute;
+    font-weight: 800;
+    color: hsl(176, 50%, 47%);
+    right: 10px;
+    
+}
+
+
+.greyed-price-class{
+    position: absolute;
+    font-weight: 800;
+    color: darkgrey;
+    right: 10px;
+}
+
+
+.quantity{
+    position: absolute;
+    font-size: xx-large;
+    font-weight: bold;
+    flex: 1;
+    left: 10px;
+}
+
+.greyed-quantity{
+    position: absolute;
+    font-size: xx-large;
+    font-weight: bold;
+    flex: 1;
+    left: 10px;
+    color: grey;
+
+}
+
+.block-quantity{
+    display: flex;
+    position: absolute;
+    top: 130px;
+    justify-content: space-between;
+}
+
+.select-button{
+    position: relative;
+    left: 320px;
+    flex: 1;
+    background-color:  hsl(176, 50%, 47%);
+    color: white;
+}
+
+.select-button:hover{
+    background: hsl(175, 53%, 24%);
+    color: white;
+}
+
+
+
+.block{
+font-family: 'Commissioner';
+display: flex;
+position: relative;
+top: 30px;
+justify-content: space-between;
+}

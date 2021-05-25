@@ -1,0 +1,48 @@
+.header{
+    display: flexbox;
+
+}
+
+.bg-img {
+    background-image: url("../Assets/image-hero-desktop.jpg");
+    min-height: 380px;
+    position: relative;
+    background-position: center;    
+    background-size: cover;
+  }
+
+  
+.nav-block a{
+    color: white;
+    float: right;
+    position: relative;
+    padding: 14px 20px;
+    right: 200px;
+    font-size:15px;
+    top: 50px;
+    font-family: 'Commissioner'
+   
+}
+.nav-block a :hover{
+    color: rgb(219, 216, 216);
+}
+
+.topnav{
+    width: auto;
+    position: absolute;
+    height: auto;
+}
+.logo{
+    position: absolute;
+    top: 70px;
+    left: 200px;
+    
+}
+
+.masterCraft{
+    position: relative;
+    top: 300px;
+    left: 120px;
+    z-index: +1;
+}
+

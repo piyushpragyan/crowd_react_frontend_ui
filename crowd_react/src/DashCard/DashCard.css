@@ -1,0 +1,30 @@
+.block{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Commissioner';
+}
+
+.left-aligned{
+    font-size: xx-large;
+    font-weight: bold;
+    flex: 1;
+}
+
+.right-aligned{
+    font-size: xx-large;
+    font-weight: bold;
+    flex: 1;
+}
+
+.center-aligned{
+    font-size: xx-large;
+    font-weight: bold;
+    flex: 1;
+}
+
+.subtle{
+    font-size: small;
+    color: grey;
+}
+
+
